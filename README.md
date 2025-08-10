@@ -1,2 +1,2 @@
 # SAS_USUFUL_FUNCTIONS
-SAS 활용 시 유용한 기능
+SAS 사용 시 유용한 기능
